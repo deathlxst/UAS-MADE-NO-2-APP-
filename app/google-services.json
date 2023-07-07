@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365130743379",
+    "project_id": "uas-made",
+    "storage_bucket": "uas-made.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365130743379:android:1a8556ba730bc54a8e50a6",
+        "android_client_info": {
+          "package_name": "com.example.uas_made"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365130743379-t9ssti4vg61v3gluv2cvg6qggvvtd450.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2_y8Mb8oo7i7wHlE12V1SpHYNeUo5ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365130743379-t9ssti4vg61v3gluv2cvg6qggvvtd450.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
